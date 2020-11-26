@@ -1,0 +1,5 @@
+Collecting pandas
+  Downloading https://www.piwheels.org/simple/pandas/pandas-0.25.3-cp35-cp35m-linux_armv7l.whl (27.5MB)
+Collecting numpy>=1.13.3 (from pandas)
+  Downloading https://www.piwheels.org/simple/numpy/numpy-1.18.5-cp35-cp35m-linux_armv7l.whl (8.9MB)
+Collecting pytz>=2017.2 (from pandas)
